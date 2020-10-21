@@ -1,7 +1,7 @@
 {
   "asset": {
     "version": "2.0",
-    "generator": "babylon.js glTF exporter for 3dsmax 2021 vCustom.Build.Version"
+    "generator": "babylon.js glTF exporter for 3dsmax 2021 v20201012.1"
   },
   "extensionsUsed": [
     "KHR_lights_punctual",
@@ -90,7 +90,7 @@
         1.775688,
         1.61994529
       ],
-      "name": "Playarea_1",
+      "name": "PA:Playarea_1",
       "rotation": [
         0,
         0,
@@ -2578,7 +2578,7 @@
         1.775688,
         1.24149716
       ],
-      "name": "Playarea_2",
+      "name": "PA:Playarea_2",
       "rotation": [
         0,
         0,
@@ -5056,7 +5056,7 @@
         1.00266492,
         -3.59933
       ],
-      "name": "FS",
+      "name": "PA:FS",
       "rotation": [
         0,
         0,
